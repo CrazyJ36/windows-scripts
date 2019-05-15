@@ -1,0 +1,7 @@
+add this reg key,
+
+then, at:
+HKEY_CLASSES_ROOT\Directory\Background\shell\WSL\command
+set (default) key value to:
+
+cmd.exe /c pushd "%V" && bash.exe

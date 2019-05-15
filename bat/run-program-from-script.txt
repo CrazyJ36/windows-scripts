@@ -1,0 +1,5 @@
+You can simply use:
+
+> cmd \k C:\"Program Files"\Developer\myapp <options>
+
+to run programs from scripts.
