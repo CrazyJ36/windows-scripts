@@ -1,3 +1,4 @@
-add:
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build\
+- add: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build\
 to path.
+
+- run vcvars64.bat
