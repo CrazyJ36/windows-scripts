@@ -1,5 +1,5 @@
 # windows-scripts
-Some usability scripts and files to add minor performance enhancements to Microsoft Windows OS.
+My scripting projects for usability in Microsoft Windows OS.
 ***
 
 DISCLAIMER:
